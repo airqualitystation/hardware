@@ -18,3 +18,11 @@ TBD
 ## Gallery
 
 ![Air Quality Station 2020](https://raw.githubusercontent.com/airqualitystation/airqualitystation.github.io/master/images/Project_Quality_Air_Station.jpg)
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  Titre
+</p>

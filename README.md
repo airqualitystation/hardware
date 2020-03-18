@@ -18,5 +18,5 @@ TBD
 ## Gallery
 ![Air Quality Station 2020](https://raw.githubusercontent.com/airqualitystation/airqualitystation.github.io/master/images/Station_meteo)
 <p align="center">
-  <b>Weather station </b><br>
+  Weather station </b><br>
 </p>

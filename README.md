@@ -1,5 +1,5 @@
 # Air Quality Station :: Hardware
-This repository contains details of equipment which we consider important to  highlight. In this **README** note, you will find an overview of the schematic and the wiring of the air quality station.  
+This repository contains details of equipment which we consider important to  highlight. In the **To_do** folder we list some improvements wich could be done for the next team. In this **README** note, you will find an overview of the schematic and the wiring of the air quality station.  
 
 ## Hardware requirements
 * [STM32 Nucleo B-L072Z-LRWAN1](https://www.st.com/en/evaluation-tools/b-l072z-lrwan1.html)

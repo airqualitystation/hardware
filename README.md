@@ -15,11 +15,11 @@ This project contains the schematic and the wiring of the Air Quality Station
 
 ![Air Quality Station 2020](https://raw.githubusercontent.com/airqualitystation/airqualitystation.github.io/master/images/Schematic_2020.png)
 <p align="center">
-  <i>Weather station </i>
+  <i>Project schematic 2020 </i>
 </p>
 
 ## Gallery
 ![Air Quality Station 2020](https://raw.githubusercontent.com/airqualitystation/airqualitystation.github.io/master/images/Station_meteo)
 <p align="center">
-  <i>Weather station </i>
+  <i>Weather station 2020 </i>
 </p>

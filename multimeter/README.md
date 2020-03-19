@@ -1,4 +1,4 @@
-# Voltmeter details :
+# Multimeter details :
 
 Thanks to USB Energetic spy’s project at Polytech Grenoble, we measured the consumption of
 our system during 1 hour. Datas was exported in an Excel file for analysis. Here take look at the current chart directly pull from the battery :   

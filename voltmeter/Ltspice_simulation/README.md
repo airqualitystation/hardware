@@ -1,4 +1,4 @@
-#Note :
+# Note :
 
 Please note that you need import the ndp6020p in the Ltspice library folder before simulate.  
 

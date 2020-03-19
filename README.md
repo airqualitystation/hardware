@@ -1,5 +1,5 @@
 # Air Quality Station :: Hardware
-This project contains the schematic and the wiring of the Air Quality Station
+This repository contains details of equipment which we consider important to  highlight. In this **README** note, you will find an overview of the schematic and the wiring of the air quality station.  
 
 ## Hardware requirements
 * [STM32 Nucleo B-L072Z-LRWAN1](https://www.st.com/en/evaluation-tools/b-l072z-lrwan1.html)
@@ -10,6 +10,7 @@ This project contains the schematic and the wiring of the Air Quality Station
 * [Solar Panel 180x80 mm](https://www.gotronic.fr/art-cellule-solaire-sol2w-18995.htm#complte_desc)
 * [LiPo Battery 3.7 V / 2000 mAh](https://www.sparkfun.com/datasheets/Batteries/UnionBattery-2000mAh.pdf)
 * [Solar Power Manager 5V](https://www.dfrobot.com/product-1712.html)
+* [Analog digital converter ADS1115](https://www.adafruit.com/product/1085)
 
 ## Schematics
 
